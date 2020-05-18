@@ -1,16 +1,13 @@
 # candylandcards
 
-Candyland Card
+Candyland Cards
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a Flutter application that can be used as a card deck for the game Candyland.
 
-A few resources to get you started if this is your first Flutter project:
+Because it is written in Flutter, it can be deployed as an Android, iOS, or web app.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Android - Coming soon
+iOS - Coming soon
+Web - https://candylandcards.vaughn0523.com
