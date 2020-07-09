@@ -11,6 +11,7 @@ It is also avaiable via a web app using the link below.
 Google Play Store - https://play.google.com/store/apps/details?id=org.vaughn.candylandcards
 
 Apple App Store - COMING SOON!
+
 Web App - https://candylandcards.vaughn0523.com
 
 ![Alt text](candyland_cards_1.png?raw=true "Title")
